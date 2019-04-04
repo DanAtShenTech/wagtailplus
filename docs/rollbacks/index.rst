@@ -2,7 +2,7 @@ The Rollbacks Module
 ====================
 
 This module enables users to "rollback" or revert to previous versions of a page, using Wagtail's default page
-revisions. This is handled via a "history" tab is automatically added to the edit handler of every page model class.
+revisions. This is handled via a "history" tab that is automatically added to the edit handler of every page model class.
 Users are presented with a confirmation page prior to actually reverting to a previous version, and the actions they
 may take are based on existing user page permissions.
 
